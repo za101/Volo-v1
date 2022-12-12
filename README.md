@@ -1,5 +1,5 @@
 # Volo-v1
-This is Cloud and ML Project with Zuhaib Akhtar & Jyothir S V.
+This is Cloud and ML Project with Jyothir S V & Zuhaib Akhtar.
 
 In this work, we try to optimize VOLO by several methods to accelerate the training and make it perform better.
 
